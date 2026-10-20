@@ -76,4 +76,4 @@ CPSU Senior Project CI/
 ระยะปลอดภัย: เว้นรอบโลโก้อย่างน้อย X ทุกด้าน โดย X คือความสูงของแถบ PROJECT
 ขนาดเล็กที่สุด: Primary/Mark 120 px หรือ 25 mm · Horizontal 280 px หรือ 50 mm · Icon 40 px หรือ 10 mm
 
-ผู้ดูแลแบรนด์: [ชื่อ · อีเมล]
+ผู้ดูแลแบรนด์: อภิเษก หงษ์วิทยากร · apisake@gmail.com
