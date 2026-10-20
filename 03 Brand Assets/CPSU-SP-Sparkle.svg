@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120">
+  <!-- Four-point sparkles: large in Teal, small in Mint. Use at most two, top right. -->
+  <path d="M60 10 Q71 49 110 60 Q71 71 60 110 Q49 71 10 60 Q49 49 60 10 Z" fill="#25A39C"/>
+  <path d="M132 4 Q136.6 20.4 153 25 Q136.6 29.6 132 46 Q127.4 29.6 111 25 Q127.4 20.4 132 4 Z" fill="#7FD8D0"/>
+</svg>

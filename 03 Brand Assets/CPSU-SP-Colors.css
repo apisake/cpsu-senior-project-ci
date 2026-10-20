@@ -1,0 +1,23 @@
+/* CPSU senior PROJECT — brand colours (CI Guidelines 2026) */
+:root {
+  /* Teal family */
+  --cpsu-teal-light: #34B5AE; /* RGB 52, 181, 174  — gradient light end */
+  --cpsu-teal:       #25A39C; /* RGB 37, 163, 156  — primary: CPSU badge, main surfaces */
+  --cpsu-teal-deep:  #1B8D87; /* RGB 27, 141, 135  — PROJECT lettering */
+  --cpsu-teal-dark:  #12706B; /* RGB 18, 112, 107  — shadow, one-colour work */
+  --cpsu-mint:       #7FD8D0; /* RGB 127, 216, 208 — "senior", highlights */
+  --cpsu-mint-light: #C2E9E7; /* RGB 194, 233, 231 — second speed bar */
+
+  /* Neutrals */
+  --cpsu-ink:   #0F2E2C; /* RGB 15, 46, 44    — dark background / text */
+  --cpsu-paper: #F4F7F7; /* RGB 244, 247, 247 — light background */
+  --cpsu-white: #FFFFFF; /* ring and PROJECT pill */
+
+  /* Gradients (135°, top-left to bottom-right) */
+  --cpsu-gradient-background: linear-gradient(135deg, #34B5AE 0%, #1B8D87 100%);
+  --cpsu-gradient-badge:      linear-gradient(135deg, #25A39C 0%, #12706B 100%);
+
+  /* Typefaces (Google Fonts) */
+  --cpsu-font-heading: 'Kanit', Tahoma, sans-serif;   /* ExtraBold 800 Italic */
+  --cpsu-font-body:    'Anuphan', Tahoma, sans-serif; /* 400 / 600 */
+}

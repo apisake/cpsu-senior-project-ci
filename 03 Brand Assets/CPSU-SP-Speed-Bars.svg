@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Speed bars: horizontal, rounded ends, always pointing right. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1B8D87"/>
+      <stop offset="1" stop-color="#34B5AE"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="20" width="560" height="60" rx="30" fill="#7FD8D0"/>
+  <rect x="0" y="110" width="740" height="104" rx="52" fill="url(#g)"/>
+  <rect x="0" y="244" width="420" height="46" rx="23" fill="#12706B"/>
+</svg>
